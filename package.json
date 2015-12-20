@@ -1,0 +1,15 @@
+{
+  "name": "pastform",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "author": "William Andrade",
+  "license": "ISC",
+  "dependencies" : {
+    "express": "*",
+    "express"    : "*",
+    "body-parser": "*",
+    "method-override": "*",
+    "request": "*"
+  }
+}

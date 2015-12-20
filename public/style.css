@@ -1,0 +1,23 @@
+table thead tr th{
+  text-align: center !important;
+}
+.col-lg-4 .fix{
+  position: fixed;
+}
+.col-lg-4 .btn-primary{
+  margin: 08px;
+}
+.lateral{
+  position: fixed;
+  height: 100%;
+  z-index: 99999;
+  right: 0;
+  width: 40%;
+  background-color: white;
+  border-left: 1px solid rgba(0, 0, 0, 0.15);
+  top: 0;
+  padding: 20px;
+}
+.lateral div .btn{
+  margin: 08px;
+}
